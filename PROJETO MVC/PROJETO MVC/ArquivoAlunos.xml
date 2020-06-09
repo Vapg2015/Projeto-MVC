@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAluno xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Aluno>
+    <Codigo>9DF6</Codigo>
+    <Nome>Wallace</Nome>
+    <Telefone>3132146546</Telefone>
+    <Email>wallacepuc</Email>
+  </Aluno>
+  <Aluno>
+    <Codigo>F3C2</Codigo>
+    <Nome>Vitor</Nome>
+    <Telefone>1321654</Telefone>
+    <Email>dlfkasfjd@fkjdaldsj</Email>
+  </Aluno>
+</ArrayOfAluno>
